@@ -1,0 +1,8 @@
+##
+# Linkedin config
+api_key: "56cq4guqwzqr"
+api_host: "https://api.linkedin.com"
+api_secret_key: "HkPnx4XOYapk7TmA"
+authorize_path: "/uas/oauth/authorize"
+access_token_path: "/uas/oauth/accessToken"
+request_token_path: "/uas/oauth/requestToken"

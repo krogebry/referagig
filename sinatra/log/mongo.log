@@ -1,0 +1,321 @@
+# Logfile created on 2012-05-28 00:51:53 -0700 by logger.rb/31641
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (2ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (7ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (9ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (26ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (165ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (63ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (3ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}, {"_id"=>BSON::ObjectId('4fc32c991783651db6000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b20e1783652b0f000002'), "user_id"=>BSON::ObjectId('4fc32c991783651db6000001')}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}, {"_id"=>BSON::ObjectId('4fc32c991783651db6000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b20e1783652b0f000002'), "user_id"=>BSON::ObjectId('4fc32c991783651db6000001')}})
+MONGODB (48ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}, {"_id"=>BSON::ObjectId('4fc32c991783651db6000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b25a1783652b15000002'), "user_id"=>BSON::ObjectId('4fc32c991783651db6000001')}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}, {"_id"=>BSON::ObjectId('4fc32c991783651db6000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b25a1783652b15000002'), "user_id"=>BSON::ObjectId('4fc32c991783651db6000001')}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}, {"_id"=>BSON::ObjectId('4fc32c991783651db6000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b26f1783652b1b000002'), "user_id"=>BSON::ObjectId('4fc32c991783651db6000001')}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}, {"_id"=>BSON::ObjectId('4fc32c991783651db6000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b26f1783652b1b000002'), "user_id"=>BSON::ObjectId('4fc32c991783651db6000001')}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}, {"_id"=>BSON::ObjectId('4fc32c991783651db6000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b28c1783652b21000002'), "user_id"=>BSON::ObjectId('4fc32c991783651db6000001')}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}, {"_id"=>BSON::ObjectId('4fc32c991783651db6000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b28c1783652b21000002'), "user_id"=>BSON::ObjectId('4fc32c991783651db6000001')}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}, {"_id"=>BSON::ObjectId('4fc32c991783651db6000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b2b01783652b3b000002'), "user_id"=>BSON::ObjectId('4fc32c991783651db6000001')}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}, {"_id"=>BSON::ObjectId('4fc32c991783651db6000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b2b01783652b3b000002'), "user_id"=>BSON::ObjectId('4fc32c991783651db6000001')}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc32c991783651db6000001')}).limit(-1)
+MONGODB (0ms) bap_production['$cmd'].find({"count"=>"bap.users", "query"=>{:username=>"bryan.kroger@gmail.com", :password=>"orange1"}, "fields"=>nil}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b2ff1783652b3b000005')}, {"_id"=>BSON::ObjectId('4fc3b2ff1783652b3b000005'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1"})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b2ff1783652b3b000005')}, {"_id"=>BSON::ObjectId('4fc3b2ff1783652b3b000005'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1"})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b2ff1783652b3b000005')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b2ff1783652b3b000005')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b2ff1783652b3b000005')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b2ff1783652b3b000005')}, {"_id"=>BSON::ObjectId('4fc3b2ff1783652b3b000005'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b3071783652b3b000009'), "user_id"=>BSON::ObjectId('4fc3b2ff1783652b3b000005')}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b2ff1783652b3b000005')}, {"_id"=>BSON::ObjectId('4fc3b2ff1783652b3b000005'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b3071783652b3b000009'), "user_id"=>BSON::ObjectId('4fc3b2ff1783652b3b000005')}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b2ff1783652b3b000005')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b2ff1783652b3b000005')}).limit(-1)
+MONGODB (6ms) bap_production['$cmd'].find({"count"=>"bap.users", "query"=>{:username=>"bryan.kroger@gmail.com", :password=>"orange1"}, "fields"=>nil}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}, {"_id"=>BSON::ObjectId('4fc3b3691783652b52000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1"})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}, {"_id"=>BSON::ObjectId('4fc3b3691783652b52000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1"})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}, {"_id"=>BSON::ObjectId('4fc3b3691783652b52000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b3791783652b52000005'), "user_id"=>BSON::ObjectId('4fc3b3691783652b52000001')}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}, {"_id"=>BSON::ObjectId('4fc3b3691783652b52000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b3de1783652b84000002'), "user_id"=>BSON::ObjectId('4fc3b3691783652b52000001')}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}, {"_id"=>BSON::ObjectId('4fc3b3691783652b52000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b3de1783652b84000002'), "user_id"=>BSON::ObjectId('4fc3b3691783652b52000001')}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}, {"_id"=>BSON::ObjectId('4fc3b3691783652b52000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b4171783652b8b000002'), "user_id"=>BSON::ObjectId('4fc3b3691783652b52000001')}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}, {"_id"=>BSON::ObjectId('4fc3b3691783652b52000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b4171783652b8b000002'), "user_id"=>BSON::ObjectId('4fc3b3691783652b52000001')}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b3691783652b52000001')}).limit(-1)
+MONGODB (0ms) bap_production['$cmd'].find({"count"=>"bap.users", "query"=>{:username=>"bryan.kroger@gmail.com", :password=>"orange1"}, "fields"=>nil}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1"})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1"})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b44d1783652b91000005'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001')}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b44d1783652b91000005'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001')}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b4791783652bab000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338225785}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b4791783652bab000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338225785}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b52d1783652bc7000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338225965}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b52d1783652bc7000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338225965}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b55f1783652bcd000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338226015}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b55f1783652bcd000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338226015}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (2ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b5851783652bd3000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338226053}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b5851783652bd3000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338226053}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b59b1783652bd9000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338226075, "refresh_token"=>"1/BaeAb9Kl8d1c3iq5532ujZZ2ee9nHG036k-SUztBMMA"}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b59b1783652bd9000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338226075, "refresh_token"=>"1/BaeAb9Kl8d1c3iq5532ujZZ2ee9nHG036k-SUztBMMA"}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b5c41783652be1000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338226116, "expires_in"=>3600, "access_token"=>"ya29.AHES6ZRTSEHHaII4gFLNLBm6CE5Dk6H-DrEREk01bAjTo40ZKvy18w", "refresh_token"=>"1/2xC4YaMy53XjT-MU1y7KlfHCOSPYURNV-R1DRNNkUPY"}})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b5c41783652be1000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338226116, "expires_in"=>3600, "access_token"=>"ya29.AHES6ZRTSEHHaII4gFLNLBm6CE5Dk6H-DrEREk01bAjTo40ZKvy18w", "refresh_token"=>"1/2xC4YaMy53XjT-MU1y7KlfHCOSPYURNV-R1DRNNkUPY"}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (84ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (80ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (1ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (6ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}, {"_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc3b5c41783652be1000002'), "user_id"=>BSON::ObjectId('4fc3b4431783652b91000001'), "issued_at"=>1338253055, "expires_in"=>3600, "access_token"=>"ya29.AHES6ZSv_ua6lNy9KUc_fOFezlI212RwFeFaUKMh_gbjwDIlcsvW2m0", "refresh_token"=>"1/2xC4YaMy53XjT-MU1y7KlfHCOSPYURNV-R1DRNNkUPY"}})
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc3b4431783652b91000001')}).limit(-1)
+MONGODB (0ms) bap_production['$cmd'].find({"count"=>"bap.users", "query"=>{:username=>"bryan.kroger@gmail.com", :password=>"orange1"}, "fields"=>nil}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc41fc1178365382b000002')}, {"_id"=>BSON::ObjectId('4fc41fc1178365382b000002'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1"})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc41fc1178365382b000002')}, {"_id"=>BSON::ObjectId('4fc41fc1178365382b000002'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1"})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc41fc1178365382b000002')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc41fc1178365382b000002')}).limit(-1)
+MONGODB (0ms) bap_production['$cmd'].find({"count"=>"bap.users", "query"=>{:username=>"bryan.kroger@gmail.com", :password=>"orange1"}, "fields"=>nil}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc420601783653856000002')}, {"_id"=>BSON::ObjectId('4fc420601783653856000002'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1"})
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc420601783653856000002')}, {"_id"=>BSON::ObjectId('4fc420601783653856000002'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1"})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc420601783653856000002')}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc420601783653856000002')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc420601783653856000002')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc420601783653856000002')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc420601783653856000002')}, {"_id"=>BSON::ObjectId('4fc420601783653856000002'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc420d11783653912000004'), "user_id"=>BSON::ObjectId('4fc420601783653856000002'), "issued_at"=>1338253521, "expires_in"=>3600, "access_token"=>"ya29.AHES6ZTe7DjYiRoPIdahs_RIczaE8DYlXUTje1QCyzOkAw0", "refresh_token"=>"1/zmQ81Hxs79kudhsTlm8U0cU7dfhZ8rOrt4AUnBczNzA"}})
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc420601783653856000002')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc420601783653856000002')}).limit(-1)
+MONGODB (133ms) bap_production['bap.users'].find({:_id=>BSON::ObjectId('4fc420601783653856000002')}).limit(-1)
+MONGODB (0ms) bap_production['bap.users'].update({:_id=>BSON::ObjectId('4fc420601783653856000002')}, {"_id"=>BSON::ObjectId('4fc420601783653856000002'), "username"=>"bryan.kroger@gmail.com", "password"=>"orange1", "google_oauth2_token_pair"=>{"_id"=>BSON::ObjectId('4fc420d11783653912000004'), "user_id"=>BSON::ObjectId('4fc420601783653856000002'), "issued_at"=>1338253521, "expires_in"=>3600, "access_token"=>"ya29.AHES6ZTe7DjYiRoPIdahs_RIczaE8DYlXUTje1QCyzOkAw0", "refresh_token"=>"1/zmQ81Hxs79kudhsTlm8U0cU7dfhZ8rOrt4AUnBczNzA"}})
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (111ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (113ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (183ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (312ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (2ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['jobs'].update({:_id=>BSON::ObjectId('4fde3cd81783657268000001')}, {"_id"=>BSON::ObjectId('4fde3cd81783657268000001'), "name"=>"blah", "display"=>"Blah"})
+MONGODB (0ms) bap_production['jobs'].update({:_id=>BSON::ObjectId('4fde3cde1783657268000002')}, {"_id"=>BSON::ObjectId('4fde3cde1783657268000002'), "name"=>"blah", "display"=>"Blah"})
+MONGODB (0ms) bap_production['jobs'].update({:_id=>BSON::ObjectId('4fde3d0a1783657268000003')}, {"_id"=>BSON::ObjectId('4fde3d0a1783657268000003'), "name"=>"blah", "display"=>"Blah"})
+MONGODB (0ms) bap_production['jobs'].update({:_id=>BSON::ObjectId('4fde3d121783657268000004')}, {"_id"=>BSON::ObjectId('4fde3d121783657268000004'), "name"=>"blah", "display"=>"Blah"})
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (15ms) bap_production['jobs'].find({})
+MONGODB (0ms) bap_production['jobs'].find({})
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['users'].update({:_id=>BSON::ObjectId('4fde407617836574bc000001')}, {"_id"=>BSON::ObjectId('4fde407617836574bc000001'), "access_token"=>"b8c35009-6330-4d76-9691-c4b80b73ba2b", "access_token_secret"=>"0e37cb72-9361-4887-b852-2562e119216a", "email"=>"bryan.kroger@gmail.com"})
+MONGODB (1ms) bap_production['jobs'].find({})
+MONGODB (0ms) bap_production['users'].update({:_id=>BSON::ObjectId('4fde409b17836574bc000006')}, {"_id"=>BSON::ObjectId('4fde409b17836574bc000006'), "access_token"=>"b8c35009-6330-4d76-9691-c4b80b73ba2b", "access_token_secret"=>"0e37cb72-9361-4887-b852-2562e119216a", "email"=>"bryan.kroger@gmail.com"})
+MONGODB (0ms) bap_production['jobs'].find({})
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (4ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['users'].find({:_id=>{:email=>"bryan.kroger@gmail.com"}}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['users'].find({:_id=>{:email=>"bryan.kroger@gmail.com"}}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) bap_production['users'].update({:_id=>BSON::ObjectId('4fde43cf178365767e000001')}, {"_id"=>BSON::ObjectId('4fde43cf178365767e000001'), "email"=>"bryan.kroger@gmail.com", "access_token"=>"b8c35009-6330-4d76-9691-c4b80b73ba2b", "access_token_secret"=>"0e37cb72-9361-4887-b852-2562e119216a"})
+MONGODB (0ms) bap_production['users'].find({:_id=>{:email=>"bryan.kroger@gmail.com"}}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (1ms) referagig_dev['jobs'].update({:_id=>BSON::ObjectId('4fde441c1783657775000001')}, {"_id"=>BSON::ObjectId('4fde441c1783657775000001'), "name"=>"blah", "display"=>"Blah"})
+MONGODB (0ms) referagig_dev['users'].update({:_id=>BSON::ObjectId('4fde441c1783657775000002')}, {"_id"=>BSON::ObjectId('4fde441c1783657775000002'), "email"=>"bryan.kroger@gmail.com", "access_token"=>"b8c35009-6330-4d76-9691-c4b80b73ba2b", "access_token_secret"=>"0e37cb72-9361-4887-b852-2562e119216a"})
+MONGODB (4313ms) referagig_dev['users'].find({:_id=>{:email=>"bryan.kroger@gmail.com"}}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) referagig_dev['jobs'].update({:_id=>BSON::ObjectId('4fde44bb178365779d000001')}, {"_id"=>BSON::ObjectId('4fde44bb178365779d000001'), "name"=>"blah", "display"=>"Blah"})
+MONGODB (0ms) referagig_dev['jobs'].find({})
+MONGODB (0ms) referagig_dev['users'].find({:email=>"bryan.kroger@gmail.com"}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) referagig_dev['jobs'].update({:_id=>BSON::ObjectId('4fde456e1783657830000001')}, {"_id"=>BSON::ObjectId('4fde456e1783657830000001'), "name"=>"blah", "display"=>"Blah"})
+MONGODB (0ms) referagig_dev['jobs'].find({})
+MONGODB (0ms) referagig_dev['users'].find({:email=>"bryan.kroger@gmail.com"}).limit(-1)
+MONGODB (0ms) referagig_dev['jobs'].update({:_id=>BSON::ObjectId('4fde45a71783657830000006')}, {"_id"=>BSON::ObjectId('4fde45a71783657830000006'), "name"=>"blah", "display"=>"Blah"})
+MONGODB (0ms) referagig_dev['jobs'].find({})
+MONGODB (0ms) referagig_dev['users'].find({:email=>"bryan.kroger@gmail.com"}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) referagig_dev['users'].find({:email=>"bryan.kroger@gmail.com"}).limit(-1)
+MONGODB [DEBUG] Logging level is currently :debug which could negatively impact client-side performance. You should set your logging level no lower than :info in production.
+MONGODB (0ms) admin['$cmd'].find({:ismaster=>1}).limit(-1)
+MONGODB (0ms) referagig_dev['jobs'].find({})
+MONGODB (0ms) referagig_dev['users'].find({:email=>"bryan.kroger@gmail.com"}).limit(-1)

@@ -1,0 +1,19 @@
+##
+#
+source 'https://rubygems.org'
+
+gem 'rails', '3.2.3'
+gem 'dalli'
+gem 'mongo_mapper'
+gem "bcrypt-ruby", :require => "bcrypt"
+gem 'cached_model'
+gem 'jquery-rails'
+
+gem 'encryptor'
+
+group :assets do
+  gem 'sass-rails'
+  gem 'coffee-rails'
+  gem 'therubyracer'
+  gem 'uglifier'
+end

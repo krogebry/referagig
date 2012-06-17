@@ -1,0 +1,10 @@
+<h1>Create Account</h1>
+
+<!-- @TODO: wire this up better -->
+
+<form action="<%= url( '/create_account' ) %>" method="POST">
+Username: <input type="text" name="username" /><br/>
+Password: <input type="password" name="password" />
+Password(confirm): <input type="password_confirm" name="password_confirm" />
+<input type="submit" />
+</form>

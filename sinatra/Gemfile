@@ -1,0 +1,14 @@
+##
+# Gem list
+source :rubygems
+gem "sinatra"
+gem "rack-cache"
+gem "mongo"
+gem "unicorn"
+gem "sinatra-google-auth"
+gem 'memcache-client'
+gem 'dalli', :git => 'git://github.com/mperham/dalli.git' 
+
+gem 'google-api-client', :require => 'google/api_client'
+gem 'omniauth', '1.1.0'
+gem 'omniauth-google-oauth2', :git => 'https://github.com/zquestz/omniauth-google-oauth2.git'

@@ -1,0 +1,6 @@
+client_id: "119993465522.apps.googleusercontent.com"
+client_secret: "s0vLXGkoVBbjIep8gsvRwIoZ"
+scope: [ "https://www.googleapis.com/auth/userinfo.profile", "https://www.googleapis.com/auth/userinfo.email" ]
+refresh_token: ""
+access_token: "AIzaSyA4wvHU1a-XtmWrlFYovYlSxGSA3bOjcPk"
+
